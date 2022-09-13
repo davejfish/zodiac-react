@@ -3,6 +3,8 @@
   flex-direction: column;
   border: 3px solid steelblue;
   width: fit-content;
+  height: 250px;
+  width: 280px;
   justify-content: center;
   padding: 10px;
   margin: 10px;
@@ -13,6 +15,6 @@
 }
 
 .zodiac-card img {
-  width: 200px;
+  width: 40%;
   align-self: center;
 }
