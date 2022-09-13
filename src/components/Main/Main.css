@@ -1,0 +1,10 @@
+main {
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+}
+
+.zodiac-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+}
